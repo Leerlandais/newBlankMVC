@@ -3,18 +3,18 @@
 
 ## Les choses qui se font ici
 
-- Standard MVC Tree Structure, with...
-    - index.php to direct to public/index.php
-    - That index already set up to call existing dependencies (config, dbconnection, etc)
-    - DB Connection done - just change the required info in the config.php
-    - Router Page, already set up to direct to blank homepage - change as necessary
+- Structure arborescente MVC standard, avec...
+    - index.php pour diriger vers public/index.php
+    - Cet index est déjà configuré pour appeler les dépendances existantes (configuration, connexion à la base de données, etc.)
+    - Connexion à la base de données effectuée - il suffit de modifier les informations requises dans config.php
+    - Page de routeur déjà configurée pour diriger vers une page d'accueil vide - modifier selon les besoins
 
-- Model
-    - Michael's disconnection model. Read instructions inside
+- Modèle
+    - Modèle de déconnexion de Michael. Lisez les instructions à l'intérieur.
 
 - Public
-    - Folders prepared for scripts, styles and images. script.js and style.css are already linked from the homepage
+    - Dossiers préparés pour les scripts, les styles et les images. script.js et style.css sont déjà liés depuis la page d'accueil.
 
-- View
-    - Premade Homepage and 404
-    - folder for includes contains empty footer and header
+- Vue
+    - Page d'accueil prête à l'emploi et page 404
+    - Le dossier pour les inclusions contient un pied de page et un en-tête vides.
