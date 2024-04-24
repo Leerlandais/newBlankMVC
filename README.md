@@ -17,4 +17,5 @@
 
 - Vue
     - Page d'accueil prête à l'emploi et page 404
+    - CDN style et js pour Bootstrap déja présent
     - Le dossier pour les inclusions contient un pied de page et un en-tête vides.
